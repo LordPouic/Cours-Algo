@@ -61,7 +61,7 @@ A venir
 A venir
 ```
 
-9 - Ecrire un programme détectant les nombres de Armstrong compris entre 0 et 999.
+Bonus - Ecrire un programme détectant les nombres de Armstrong compris entre 0 et 999.
 
 ```
 A venir
