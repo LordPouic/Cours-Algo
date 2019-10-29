@@ -82,5 +82,8 @@ else {
 6 - Ecrire un programme qui détecte si une année est bissextile
 
 ```
-A venir
+var annee = 2004;
+if ((annee % 4 == 0 && annee %100 != 0) || annnee%400==0) {
+    console.log("Bissextile");
+}
 ```
