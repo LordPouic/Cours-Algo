@@ -1,13 +1,26 @@
 1 - Faire un programme qui prend l'age d'une personne et qui affiche si cette personne est majeure ou non.
 
 ```
-A venir
+var age = 12;
+if (age >= 18){
+    console.log("Majeur");
+}
+else {
+    console.log("Mineur");
+}
 ```
 
 2 - Faire un programme qui prend deux valeurs et qui affiche la plus petite des deux
 
 ```
-A venir
+var a = 5;
+var b = 12;
+if (a<b){
+    console.log(a);
+}
+else {
+    console.log(b);
+}
 ```
 
 3 - Même exercice que le 2 mais cette fois le programme prend 3 valeurs
