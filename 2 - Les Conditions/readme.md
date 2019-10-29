@@ -70,7 +70,13 @@ else {
 5 - Faire un programme qui prend un chiffre et qui affiche si ce chiffre est pair ou impair
 
 ```
-A venir
+var c = 12;
+if ( c%2 == 0) {
+    console.log("Pair");
+}
+else {
+    console.log("Impair");
+}
 ```
 
 6 - Ecrire un programme qui détecte si une année est bissextile
