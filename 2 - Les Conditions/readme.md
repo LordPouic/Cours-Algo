@@ -43,7 +43,28 @@ else{
 4 - Faire un programme qui prend une note au bac et qui affiche la mention assignée à cette note
 
 ```
-A venir
+var note = 15;
+if (note > 20 || note < 0){
+    console.log("error");
+}
+else if (note >= 18) {
+    console.log("Exellent");
+}
+else if (note >= 16){
+    console.log("Très bien");
+}
+else if (note >= 14){
+    console.log("Bien");
+}
+else if (note >= 12){
+    console.log("Assez bien");
+}
+else if (note >= 10){
+    console.log("Passable");
+}
+else {
+    console.log("Echec");
+}
 ```
 
 5 - Faire un programme qui prend un chiffre et qui affiche si ce chiffre est pair ou impair
