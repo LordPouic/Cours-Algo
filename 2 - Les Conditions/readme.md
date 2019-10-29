@@ -26,7 +26,18 @@ else {
 3 - Même exercice que le 2 mais cette fois le programme prend 3 valeurs
 
 ```
-A venir
+var a = 2;
+var b = 3;
+var c = 1;
+if ( a < b && a < c){
+    console.log(a);
+}
+else if ( b < c){
+    console.log(b);
+}
+else{
+    console.log(c);
+}
 ```
 
 4 - Faire un programme qui prend une note au bac et qui affiche la mention assignée à cette note
