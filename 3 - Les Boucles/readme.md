@@ -48,11 +48,7 @@ for( var i =0;i<=100; i = i + 2){
 3 - Via une boucle écrire un programme qui calcule la somme des 10 premiers chiffres entiers
 
 ```
-var somme = 0;
-for(var i =1; i <= 10;i++){
-    somme = somme + i;
-}
-console.log(somme);
+A venir
 ```
 
 4 - Faire un programme qui prend 10 notes aléatoires et affiche affiche la moyenne des notes
