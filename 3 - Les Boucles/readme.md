@@ -1,31 +1,58 @@
 1a - Via une boucle while afficher tout les chiffres entiers de 100 à 1
 
 ```
-A venir
+var a = 100;
+while (a > 1) {
+    console.log(a);
+    a -= 1; // a = a -1
+}
 ```
 
 1b - Via une boucle for afficher tout les chiffres entiers de 100 à 1
 
 ```
-A venir
+for(var i =100; i>1 ; i--){ 
+    //i-- pareil que i-=1 pareil que i= i - 1
+    console.log(i);
+}
 ```
 
 2a - Via une boucle while afficher tout les chiffres pairs de 1 à 100
 
 ```
-A venir
+var a = 0;
+while (a<=100){
+    console.log(a);
+    a = a + 2;
+}
+
+OU 
+
+var a = 0;
+while (a<=100){
+    if(a%2===0){
+        console.log(a);
+    }
+    a++;
+}
 ```
 
 2b - Via une boucle for afficher tout les chiffres pairs de 1 à 100
 
 ```
-A venir
+for( var i =0;i<=100; i = i + 2){
+    console.log(i);
+}
 ```
 
 3 - Via une boucle écrire un programme qui calcule la somme des 10 premiers chiffres entiers
 
 ```
-A venir
+var somme = 0;
+for(var i =1; i <= 10;i++){
+    somme = somme + i;
+}
+console.log(somme);
 ```
 
 4 - Faire un programme qui prend 10 notes aléatoires et affiche affiche la moyenne des notes
