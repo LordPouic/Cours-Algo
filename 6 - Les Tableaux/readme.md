@@ -33,35 +33,35 @@ A venir
 
 ```
 
-6 - Créer une fonction prenant un entier X en paramètre et retournant un tableau de X valeurs aléatoires 
+6 - Créer un algorithme prenant un entier X en paramètre et créant un tableau de X valeurs aléatoires 
 
 ```
 A venir
 
 ```
 
-7 - Créer une fonction prenant un tableau en entrée et retournant ce même tableau sans les cases égales à 0
+7 - Créer un algorithme prenant un tableau en entrée et transformant ce même tableau sans les cases égales à 0
 
 ```
 A venir
 
 ```
 
-8 - Créer une fonction prenant un tableau en entrée et retournant la valeur maximale comprise dans ce tableau
+8 - Créer un algorthme prenant un tableau en entrée et affichant la valeur maximale comprise dans ce tableau
 
 ```
 A venir
 
 ```
 
-9 - Créer une fonction prenant un entier et un tableau en paramètres qui retourne oui ou non cet entier est présent dans ce tableau
+9 - Créer un algorithme prenant un entier et un tableau en paramètres qui affiche oui ou non cet entier est présent dans ce tableau
 
 ```
 A venir
 
 ```
 
-10- Créer une fonction prenant en entrée un tableau et retournant ce même tableau mais triée par ordre croissant
+10- Créer un algorithme prenant en entrée un tableau et affichant ce même tableau mais triée par ordre croissant
 
 ```
 A venir
