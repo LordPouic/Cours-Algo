@@ -48,19 +48,36 @@ for( var i =0;i<=100; i = i + 2){
 3 - Via une boucle écrire un programme qui calcule la somme des 10 premiers chiffres entiers
 
 ```
-A venir
+var somme = 0;
+for(var i =1; i <= 10;i++){
+    somme = somme + i;
+}
+console.log(somme);
 ```
 
 4 - Faire un programme qui prend 10 notes aléatoires et affiche affiche la moyenne des notes
 
 ```
-A venir
+var SommeNote=0;
+for(var i=0;i<10;i++){
+    var Note = (Math.random() * 20);
+    Note = Math.floor(Note);
+    SommeNote += Note;
+    console.log(Note);
+}
+var Moyenne = SommeNote/10;
+console.log(Moyenne);
 ```
 
 5 - Ecrire un programme qui prend un chiffre et qui affiche sa table de multiplication.
 
 ```
-A venir
+var a = 5;
+
+for(var i=0;i<10; i ++){
+    var r = a * i;
+    console.log(i+" x "+a+" = "+r);
+}
 ```
 
 6 - Ecrire un programme qui prend un nombre et calcule la factorielle de ce nombre.
