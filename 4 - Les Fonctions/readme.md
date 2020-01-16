@@ -50,13 +50,28 @@ function Max(a,b){
 5 - Créer une fonction qui prenant en entrée deux paramètres A et B et retournant A puissance B
 
 ```
-A venir
+function Power(a,puissance){
+    let r = 1;
+    for (let i=0;i<puissance;i++){
+        r *= a;
+    }
+    return r;
+}
 ```
 
 6 - Créer une fonction qui répond oui ou non au fait que le paramètre donné soit un chiffre premier ou pas
 
 ```
-A venir
+function Premier(a) {
+    let IsPremier = true;
+    for (let i = 2;i <a; i++){
+        if (a%i===0){
+           IsPremier = false;
+        }
+    }
+    return IsPremier;
+}
+
 ```
 
 7 - Créer une fonction qui prend en paramètre un chiffre et qui affiche tout les chiffres premiers inférieur au paramètre
