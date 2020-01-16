@@ -1,12 +1,11 @@
 // Ce code est là à titre d'Exemple de structure, 
 // il ne doit pas être utilisé mais le résonnement derrière doit l'être 
-// Pour votre prochain projet
+// Pour votre prochain projet.
 
 function Start(){
     let p = CreatePlateau();
     while (GameNotOver(p))
     {
-        MiseAjourPageWEB();
         p = PlayATurn(p);
     }
     
