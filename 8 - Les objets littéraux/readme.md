@@ -15,7 +15,7 @@ A venir
 ```
 3 - Créer deux objets littéraux, un représentant un héro et un autre un monstre.
 Chaque objet doit être composé d'une valeur de force, de points de vie et d'un nom.
-Créer une fonction simulant un combat (les pv du joueur sont décrémenté en fonction de la force du monstre et vice versa)
+Créer une fonction simulant un combat (les points de vie du joueur sont décrémentés en fonction de la force du monstre et vice versa)
 
 ```
 A venir
