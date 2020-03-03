@@ -2,7 +2,26 @@
     remplit par la valeur de l’indice du premier tableau plus celui du deuxième
 
 ```
-A venir
+function Exo1()
+{
+    let T = [];
+    for(let i=0;i<10;i++)
+    {
+        let T2 = [];
+        for(let j=0;j<10;j++)
+        {
+            T2.push(j+i);
+        }
+        T.push(T2);
+    }
+    return T;
+}
+
+let t = Exo1();
+for(let i=0;i<10;i++)
+{
+    console.log(t[i]);
+}
 
 ```
 
@@ -10,7 +29,20 @@ A venir
     contenant dans chaque case un tableau de taille T2 remplit de chiffres aléatoires
 
 ```
-A venir
+function Exo2(T1,T2,max)
+{
+    let Tab = [];
+    for(let i=0;i<T1;i++)
+    {
+        let Tab2 = [];
+        for(let j=0;j<T2;j++)
+        {
+            Tab2.push(Math.floor(Math.random()*max));
+        }
+        Tab.push(Tab2);
+    }
+    return Tab;
+}
 
 ```
 
