@@ -1,0 +1,10 @@
+1 - Ecrire un algorithme ayant deux variable A et B, donner des valeurs à A et B puis tenter de trouver un moyen d’intervertir les deux valeurs contenues dans A et B
+2 - Faire un algorithme affichant la plus petite valeur parmis 3 variables
+3 - Ecrire un programme qui détecte si une année est un centenaire
+4 - Via une boucle afficher tout les chiffres impairs compris entre 50 et 100
+5 - Faire un programme qui prend 20 notes aléatoires et affiche la moyenne des notes
+6 - Créer une fonction prenant en entrée deux paramètres A et B et retournant A puissance B
+7 - Créer une fonction qui répond oui ou non au fait que le paramètre donné soit un chiffre premier ou pas
+8 - Créer une fonction retournant un tableau de 10 cases avec dix valeurs aléatoires comprises entre 0 et 10
+9 - Créer une fonction prenant un tableau de chiffres en paramètre et retournant sa moyenne
+Bonus : Créer une fonction prennant un tableau en paramètre et retournant ce même tableau trié par ordre décroissant
