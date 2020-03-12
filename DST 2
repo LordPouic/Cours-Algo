@@ -1,0 +1,10 @@
+1 - Ecrire un programme qui détecte si une année est avant ou après l'année 0
+2 - Ecrire un algorithme ayant deux variable A et B, donner des valeurs à A et B puis tenter de trouver un moyen d’intervertir les deux valeurs contenues dans A et B
+3 - Faire un algorithme affichant la plus grande valeur parmis 3 variables
+4 - Via une boucle afficher tout les chiffres multiples de 3 compris entre 150 et 200
+5 - Faire un programme qui prend 20 notes aléatoires et affiche la moyenne des notes
+6 - Créer une fonction prenant en entrée deux paramètres A et B et retournant A puissance B
+7 - Créer une fonction prenant un tableau de chiffres en paramètre et retournant son maximum 
+8 - Créer une fonction qui répond oui ou non au fait que le paramètre donné soit un chiffre premier ou pas
+9 - Créer une fonction retournant un tableau de 20 cases avec 20 valeurs aléatoires comprises entre 0 et -10
+Bonus : Créer une fonction prennant un tableau en paramètre et retournant ce même tableau trié par ordre croissant
