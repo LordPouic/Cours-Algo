@@ -25,7 +25,7 @@ console.log(T);
 ```
 var T = [];
 for(var i=0;i<20;i++){
-    T.push(i);
+    T.push(Math.random() * 100);
 }
 console.log(T);
 
